@@ -1,0 +1,1471 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Emploi \u2013 Human Resources & Recruitment Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab Innovation",
+            "screenshot": "screenshots\/jkit-tab-innovation.jpg",
+            "source": "templates\/jkit-tab-innovation.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/jkit-tab-innovation\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab Excellence",
+            "screenshot": "screenshots\/jkit-tab-excellence.jpg",
+            "source": "templates\/jkit-tab-excellence.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/jkit-tab-excellence\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab Integrity",
+            "screenshot": "screenshots\/jkit-tab-integrity.jpg",
+            "source": "templates\/jkit-tab-integrity.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/jkit-tab-integrity\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit Tab Collaboration",
+            "screenshot": "screenshots\/jkit-tab-collaboration.jpg",
+            "source": "templates\/jkit-tab-collaboration.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/jkit-tab-collaboration\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/emploi\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.13",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "circle-bg-hero-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/circle-bg-hero-3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30552,
+            "dimensions": [
+                858,
+                858
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "office-manager-ready-to-listen-clients-friendly-p-2022-10-11-17-54-04-utc.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/office-manager-ready-to-listen-clients-friendly-p-2022-10-11-17-54-04-utc-800x1000.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 301363,
+            "dimensions": [
+                850,
+                1063
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-manager-ready-to-listen-clients-friendly-po-CXCR2GG"
+        },
+        {
+            "filename": "Business.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Business.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10454,
+            "dimensions": [
+                601,
+                601
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-business-icons-DXL9RUA"
+        },
+        {
+            "filename": "Resume.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Resume.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12084,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-business-icons-DXL9RUA"
+        },
+        {
+            "filename": "delightful-european-man-wearing-jacket-over-white-2022-12-16-04-14-24-utc.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/delightful-european-man-wearing-jacket-over-white-2022-12-16-04-14-24-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 310505,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/delightful-european-man-wearing-jacket-over-white--FJ2MQHM"
+        },
+        {
+            "filename": "Logo-client-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/Logo-client-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 5391,
+            "dimensions": [
+                423,
+                92
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-client-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/Logo-client-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4930,
+            "dimensions": [
+                420,
+                87
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-client-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/Logo-client-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 3597,
+            "dimensions": [
+                420,
+                87
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-client-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/Logo-client-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4584,
+            "dimensions": [
+                420,
+                87
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-client-5.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/Logo-client-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 5063,
+            "dimensions": [
+                420,
+                87
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Organization-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Organization-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 45237,
+            "dimensions": [
+                321,
+                321
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "Presentation-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Presentation-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 50813,
+            "dimensions": [
+                307,
+                297
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "Discussion-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Discussion-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 57143,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "portrait-of-cheerful-young-man-using-laptop-and-sm-2021-08-30-02-08-07-utc-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/portrait-of-cheerful-young-man-using-laptop-and-sm-2021-08-30-02-08-07-utc-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 180536,
+            "dimensions": [
+                741,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-young-man-using-laptop-and-sm-YDQVLN7"
+        },
+        {
+            "filename": "New-Employee.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/New-Employee.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 8701,
+            "dimensions": [
+                458,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hr-management-dashboard-ui-kit-4UQHWTX"
+        },
+        {
+            "filename": "Submit.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Submit.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 28067,
+            "dimensions": [
+                696,
+                135
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/moveup-hr-management-admin-template-KRQ4H9M"
+        },
+        {
+            "filename": "Notice-1-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Notice-1-1-800x277.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 17943,
+            "dimensions": [
+                903,
+                313
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "cirlce-line-3-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/cirlce-line-3-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 24793,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "Statistics.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Statistics.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5214,
+            "dimensions": [
+                610,
+                166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/moveup-hr-management-admin-template-KRQ4H9M"
+        },
+        {
+            "filename": "Mask-group-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Mask-group-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26968,
+            "dimensions": [
+                740,
+                796
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hr-management-dashboard-ui-kit-4UQHWTX"
+        },
+        {
+            "filename": "Frame-2609353.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Frame-2609353.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10477,
+            "dimensions": [
+                458,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hr-management-dashboard-ui-kit-4UQHWTX"
+        },
+        {
+            "filename": "portrait-of-a-black-woman-office-desk-and-professional-business-employee-consultant-in-the-workspa.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/portrait-of-a-black-woman-office-desk-and-professional-business-employee-consultant-in-the-workspa-800x515.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 253544,
+            "dimensions": [
+                2000,
+                1287
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GHSY5FW"
+        },
+        {
+            "filename": "bearded-manager-with-laptop-in-office.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/bearded-manager-with-laptop-in-office-800x527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 198558,
+            "dimensions": [
+                2000,
+                1317
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A67MW5A"
+        },
+        {
+            "filename": "smiling-young-employee-in-office-e1677054610297.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/smiling-young-employee-in-office-e1677054610297-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 200476,
+            "dimensions": [
+                1820,
+                1213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J6F42ZM"
+        },
+        {
+            "filename": "attractive-manager-posing-for-photography.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/attractive-manager-posing-for-photography-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 237612,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XP4CVF9"
+        },
+        {
+            "filename": "confident-bearded-bookstore-manager.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/confident-bearded-bookstore-manager-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 317773,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E85CVZP"
+        },
+        {
+            "filename": "portrait-office-and-business-woman-on-laptop-for-corporate-workplace-management-accounting-and-fi.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/portrait-office-and-business-woman-on-laptop-for-corporate-workplace-management-accounting-and-fi-800x562.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 257827,
+            "dimensions": [
+                2000,
+                1404
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KLPLFTK"
+        },
+        {
+            "filename": "ellipse-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/ellipse-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29933,
+            "dimensions": [
+                770,
+                628
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "Team-4-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-4-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 110986,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/everything-under-control-good-looking-african-fema-AT3LPP9"
+        },
+        {
+            "filename": "Team-2-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 301475,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-happy-and-delighted-handsome-youn-9YMM84L"
+        },
+        {
+            "filename": "Team-3-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-3-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 226821,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/travel-agent-hearing-customer-desires-portrait-of--JTPVWBL"
+        },
+        {
+            "filename": "Team-1-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-1-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 223155,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-portrait-of-glad-male-office-worker-wit-Y5QZUTR"
+        },
+        {
+            "filename": "cta-circle-bg.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/cta-circle-bg-800x297.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 47101,
+            "dimensions": [
+                2413,
+                896
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "cta-circle-bg-tablet.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/cta-circle-bg-tablet-800x486.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 36904,
+            "dimensions": [
+                1474,
+                896
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "Team-5-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 228819,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-and-confident-male-entrepreneur-in-styl-KJ7QQ73"
+        },
+        {
+            "filename": "Team-8-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-8-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 195725,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/indoor-shot-of-creative-good-looking-stylish-desig-ZZT9FDW"
+        },
+        {
+            "filename": "Team-7-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 237420,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ready-to-bring-my-company-to-top-portrait-of-good--S6HN5DV"
+        },
+        {
+            "filename": "Horizontal.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Horizontal.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-innovation.json",
+                    "name": "JKit Tab Innovation"
+                }
+            ],
+            "filesize": 71518,
+            "dimensions": [
+                428,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-analytic-icons-UYC2DNN"
+        },
+        {
+            "filename": "Profit-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Profit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-excellence.json",
+                    "name": "JKit Tab Excellence"
+                }
+            ],
+            "filesize": 120164,
+            "dimensions": [
+                570,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-business-icons-DXL9RUA"
+        },
+        {
+            "filename": "Union.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Union.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-integrity.json",
+                    "name": "JKit Tab Integrity"
+                }
+            ],
+            "filesize": 145359,
+            "dimensions": [
+                572,
+                573
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-analytic-icons-UYC2DNN"
+        },
+        {
+            "filename": "Share-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Share-1.png",
+            "templates": [
+                {
+                    "source": "templates\/jkit-tab-collaboration.json",
+                    "name": "JKit Tab Collaboration"
+                }
+            ],
+            "filesize": 73333,
+            "dimensions": [
+                428,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-analytic-icons-UYC2DNN"
+        },
+        {
+            "filename": "boss-asian-hr-manager-office-resume-smiling.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/boss-asian-hr-manager-office-resume-smiling-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 296466,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9WXNEFZ"
+        },
+        {
+            "filename": "team-of-multiracial-businesswomen-working-on-a-meting-at-corporate-office--e1677054836208.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/team-of-multiracial-businesswomen-working-on-a-meting-at-corporate-office--e1677054836208-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 143371,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4836208"
+        },
+        {
+            "filename": "hr-manager-interviewing-candidate.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/hr-manager-interviewing-candidate-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 273188,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QDU8L75"
+        },
+        {
+            "filename": "diverse-business-team-of-three.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/diverse-business-team-of-three-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 312933,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RMZ5W3B"
+        },
+        {
+            "filename": "diverse-happy-and-proud-team-of-employees-happy-a-2022-12-07-21-37-25-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/diverse-happy-and-proud-team-of-employees-happy-a-2022-12-07-21-37-25-utc-1-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 282180,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-happy-and-proud-team-of-employees-happy-an-5R37Y8Q"
+        },
+        {
+            "filename": "Team-6-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Team-6-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 171378,
+            "dimensions": [
+                800,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-friendly-looking-ginger-man-with-freckles-LBKG3K2"
+        },
+        {
+            "filename": "Division-e1675908579476.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Division-e1675908579476.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 39672,
+            "dimensions": [
+                320,
+                319
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "Structure.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Structure.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 48667,
+            "dimensions": [
+                320,
+                321
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "Management-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Management-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 59291,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-teamwork-icons-GYQT5CA"
+        },
+        {
+            "filename": "ellipse-green.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/ellipse-green.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 30785,
+            "dimensions": [
+                770,
+                628
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "Document-analytic.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/Document-analytic.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 31025,
+            "dimensions": [
+                240,
+                225
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-analytic-icons-UYC2DNN"
+        },
+        {
+            "filename": "attractive-scrum-master-sitting-on-chair-near-sticky-notes-on-floor.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/attractive-scrum-master-sitting-on-chair-near-sticky-notes-on-floor-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 295292,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZDXDTTY"
+        },
+        {
+            "filename": "map.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/map.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 27738,
+            "dimensions": [
+                240,
+                241
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lylac-location-icons-E4BVMPQ"
+        },
+        {
+            "filename": "logo-e1675130015743.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/01\/logo-e1675130015743.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3411,
+            "dimensions": [
+                501,
+                121
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        },
+        {
+            "filename": "logo-white-1-e1675303809794.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/emploi\/wp-content\/uploads\/sites\/341\/2023\/02\/logo-white-1-e1675303809794.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3398,
+            "dimensions": [
+                501,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/emploi\/"
+        }
+    ]
+}
